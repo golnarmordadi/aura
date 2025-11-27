@@ -49,6 +49,7 @@ cd aura
 python -m venv venv && source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python agent/core.py
+‍‍‍‍‍‍```
 
 ### Made by
 **Golnar Mordadi** – Full-stack AI Engineer  
@@ -58,4 +59,6 @@ Built in public · Inspired by Elon Musk, xAI, and Tesla FSD
 We are hiring contributors (remote, equity-heavy). DM me on X → @golnar_mordadi (یا هر هندلی که داری)  
 
 **Let’s make death optional.**
+
+
 
