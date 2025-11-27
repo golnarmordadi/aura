@@ -1,0 +1,10 @@
+langgraph==0.0.28
+fastapi==0.104.1
+uvicorn==0.24.0
+neurokit2==0.2.5
+wfdb==4.1.1
+torch==2.1.0  # اگر GPU داری، CUDA اضافه کن
+numpy==1.24.3
+pandas==2.1.0
+requests==2.31.0  # برای API Grok/Claude
+python-multipart==0.0.6
